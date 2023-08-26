@@ -1,0 +1,5 @@
+com/company/recordstoreapi/RecordStoreApiApplication.class
+com/company/recordstoreapi/models/Record.class
+com/company/recordstoreapi/models/CustomErrorResponse.class
+com/company/recordstoreapi/controller/ControllerExceptionHandler.class
+com/company/recordstoreapi/controller/RecordStoreController.class
